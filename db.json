@@ -1,0 +1,34 @@
+{
+  "todo": [
+    {
+      "task": "Cleaning",
+      "location": "home",
+      "description": "Clean the bath tub on monday",
+      "id": 1
+    },
+    {
+      "task": "Shopping",
+      "location": "Carrefour Market",
+      "description": "To buy groceries",
+      "id": 8
+    },
+    {
+      "task": "Sports",
+      "location": "Local Gym",
+      "description": " 10 squats, \n 20 pushups and\n10mins plank.\n",
+      "id": 9
+    },
+    {
+      "task": "Cooking",
+      "location": "At Home",
+      "description": "Rice,  vegetables  and Beans.",
+      "id": 10
+    },
+    {
+      "task": "Teachings",
+      "location": "School",
+      "description": "Teach kids English and Mathematics\n\n",
+      "id": 11
+    }
+  ]
+}
